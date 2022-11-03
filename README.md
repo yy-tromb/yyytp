@@ -5,4 +5,7 @@
 2. (AV1>VP9>H.264)+(Opus>AAC)->MKV
 3. delete Video which merged into MKV
 
+## Usage
+yyytp.py "URL" (-no-cache) (-debug)
+
 ## Copyright (c) 2022 yyhome-tromb
