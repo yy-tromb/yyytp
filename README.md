@@ -1,4 +1,4 @@
-# This application is deprecation. I don't maintenance this application any more.  
+# This application is deprecation. I won't maintenance this application any more.  
 # I'm developping [YYdlp-GUI: The GUI wrapper of yt-dlp(https://github.com/yt-dlp/yt-dlp/tree/master)](https://github.com/yy-tromb/YYdlp-GUI)
 
 # yyytp
