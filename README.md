@@ -1,5 +1,5 @@
 # This application is deprecation. I won't maintenance this application any more.  
-# I'm developping [YYdlp-GUI: The GUI wrapper of yt-dlp(https://github.com/yt-dlp/yt-dlp/tree/master)](https://github.com/yy-tromb/YYdlp-GUI)
+# Instead I'm developping [YYdlp-GUI: The GUI wrapper of yt-dlp(https://github.com/yt-dlp/yt-dlp/tree/master)](https://github.com/yy-tromb/YYdlp-GUI)
 
 # yyytp
 ## Python yt-dlp wrapper for me
