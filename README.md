@@ -1,3 +1,5 @@
+# This application is deprecation. I don't maintenance this application any more. I'm developping [YYdlp-GUI: [yydlp](https://github.com/yt-dlp/yt-dlp/tree/master) GUI wrapper](https://github.com/yy-tromb/YYdlp-GUI)
+
 # yyytp
 ## Python yt-dlp wrapper for me
 
@@ -8,4 +10,4 @@
 ## Usage
 yyytp.py "URL" (-no-cache) (-debug)
 
-## Copyright (c) 2022 yyhome-tromb
+## Copyright (c) 2023 yyhome-tromb
